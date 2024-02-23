@@ -32,6 +32,8 @@
 
 ;;; Code:
 
+(require 'flycheck)
+
 (flycheck-define-checker dart
   "Dart static analyzer using dart analyze."
   :command ("dart" "analyze" "--format=machine" source)
