@@ -5,7 +5,7 @@
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
-;; URL: https://github.com/jcs090218/flycheck-dart
+;; URL: https://github.com/flycheck/flycheck-dart
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1") (flycheck "0.22") (dart-mode "0.11"))
 ;; Keywords: tools
