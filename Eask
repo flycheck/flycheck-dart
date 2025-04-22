@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "flycheck-dart"
          "0.1.0"
          "Flycheck for dart analyze")
